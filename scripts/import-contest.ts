@@ -1,3 +1,4 @@
+import 'dotenv/config'
 import * as fs from 'fs'
 import * as readline from 'readline'
 import { supabaseAdmin } from '../lib/supabase'
